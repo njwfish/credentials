@@ -1,0 +1,5 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is '/Users/BLUE/Dropbox/Work/Fancy CV/.texpadtmp/friggeri-cv.blg'
+[196] biber-darwin:275> INFO - === Tue Apr  4, 2017, 05:21:55
+[1195] Utils.pm:185> ERROR - Cannot find control file '/Users/BLUE/Dropbox/Work/Fancy CV/.texpadtmp/friggeri-cv.bcf'! - did you pass the "backend=biber" option to BibLaTeX?
+[1196] Biber.pm:109> INFO - ERRORS: 1

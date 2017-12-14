@@ -1,0 +1,66 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/.texpadtmp/cv draft i.blg'
+[133] biber-darwin:275> INFO - === Wed Mar  1, 2017, 10:28:48
+[135] Biber.pm:333> INFO - Reading '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/.texpadtmp/cv draft i.bcf'
+[250] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[250] Biber.pm:607> INFO - Using all citekeys in bib section 1
+[250] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[251] Biber.pm:607> INFO - Using all citekeys in bib section 2
+[251] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[252] Biber.pm:607> INFO - Using all citekeys in bib section 3
+[252] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[252] Biber.pm:607> INFO - Using all citekeys in bib section 4
+[252] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[253] Biber.pm:607> INFO - Using all citekeys in bib section 5
+[253] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:3053> INFO - Processing section 1
+[469] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib' for section 1
+[473] 051dfd95.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[474] 051dfd95.pm:812> INFO - Found BibTeX data source '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib'
+[497] Utils.pm:169> WARN - BibTeX subsystem: /var/folders/g0/t1z2tmx90bg9t8mt2tnr5qhc0000gn/T/I3izZUVDFN/bibliography.bib_58969.utf8, line 23, warning: 69 characters of junk seen at toplevel
+[498] Utils.pm:169> WARN - The field 'number' in entry 'fishman:2016:njw:baseball' cannot be null, deleting it
+[563] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[563] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[563] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[601] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[602] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[602] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[621] Biber.pm:3053> INFO - Processing section 2
+[622] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib' for section 2
+[632] Utils.pm:169> WARN - The field 'number' in entry 'fishman:2016:njw:baseball' cannot be null, deleting it
+[654] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[655] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[655] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[680] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[680] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[680] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[689] Biber.pm:3053> INFO - Processing section 3
+[689] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib' for section 3
+[697] Utils.pm:169> WARN - The field 'number' in entry 'fishman:2016:njw:baseball' cannot be null, deleting it
+[718] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[719] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[719] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[741] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[743] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[744] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[753] Biber.pm:3053> INFO - Processing section 4
+[754] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib' for section 4
+[762] Utils.pm:169> WARN - The field 'number' in entry 'fishman:2016:njw:baseball' cannot be null, deleting it
+[779] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[780] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[780] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[796] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[796] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[796] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[802] Biber.pm:3053> INFO - Processing section 5
+[802] Biber.pm:3190> INFO - Looking for bibtex format file '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/bibliography.bib' for section 5
+[807] Utils.pm:169> WARN - The field 'number' in entry 'fishman:2016:njw:baseball' cannot be null, deleting it
+[823] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[823] Biber.pm:2945> INFO - Sorting 'entry' list 'chronological' keys
+[824] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[841] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[841] Biber.pm:2945> INFO - Sorting 'entry' list 'ydnt' keys
+[842] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[847] bbl.pm:482> INFO - Writing '/Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/.texpadtmp/cv draft i.bbl' with encoding 'UTF-8'
+[851] bbl.pm:555> INFO - Output to /Users/BLUE/Dropbox/Bioinformatics/Problem Set 3/Fancy CV/.texpadtmp/cv draft i.bbl
+[852] Biber.pm:105> INFO - WARNINGS: 6

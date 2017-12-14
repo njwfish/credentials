@@ -1,0 +1,4 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[0] Config.pm:321> INFO - Logfile is '/Users/njwfish/Dropbox/Work/Fancy CV/.texpadtmp/resume.blg'
+[54] biber-darwin:275> INFO - === Fri Nov  3, 2017, 10:29:58
+[54] Biber.pm:333> INFO - Reading '/Users/njwfish/Dropbox/Work/Fancy CV/.texpadtmp/resume.bcf'
