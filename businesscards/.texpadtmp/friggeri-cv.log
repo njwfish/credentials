@@ -1,0 +1,568 @@
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xetex 2014.5.25)  4 APR 2017 05:21
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**friggeri-cv.cls
+(./friggeri-cv.cls
+./friggeri-cv.cls:1: Undefined control sequence.
+l.1 \ProvidesClass
+                  {friggeri-cv}[2012/04/30 CV class]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:2: Undefined control sequence.
+l.2 \NeedsTeXFormat
+                   {LaTeX2e}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:4: Undefined control sequence.
+l.4 \DeclareOption
+                  {print}{\def\@cv@print{}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:5: Undefined control sequence.
+l.5 \DeclareOption
+                  *{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:6: Undefined control sequence.
+l.6   \PassOptionsToClass
+                         {\CurrentOption}{article}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:6: Undefined control sequence.
+l.6   \PassOptionsToClass{\CurrentOption
+                                        }{article}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:8: Undefined control sequence.
+l.8 \ProcessOptions
+                   \relax
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:9: Undefined control sequence.
+l.9 \LoadClass
+              {article}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:16: Undefined control sequence.
+l.16 \RequirePackage
+                    {xcolor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:18: Undefined control sequence.
+l.18 \definecolor
+                 {white}{RGB}{255,255,255}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:20: Undefined control sequence.
+l.20 \definecolor
+                 {darkgray}{HTML}{333333}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:21: Undefined control sequence.
+l.21 \definecolor
+                 {gray}{HTML}{4D4D4D}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:22: Undefined control sequence.
+l.22 \definecolor
+                 {lightgray}{HTML}{999999}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:24: Undefined control sequence.
+l.24 \definecolor
+                 {dblue}{HTML}{5F81E1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:25: Undefined control sequence.
+l.25 \definecolor
+                 {green}{HTML}{C2E15F}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:26: Undefined control sequence.
+l.26 \definecolor
+                 {orange}{HTML}{FDA333}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:27: Undefined control sequence.
+l.27 \definecolor
+                 {purple}{HTML}{D3A4F9}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:28: Undefined control sequence.
+l.28 \definecolor
+                 {red}{HTML}{FB4485}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:29: Undefined control sequence.
+l.29 \definecolor
+                 {blue}{HTML}{6CE0F1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (3.27267pt too wide) in paragraph at lines 24--30
+[]\tenrm dblueHTML5F81E1 green-HTMLC2E15F or-ange-HTMLFDA333 pur-ple-HTMLD3A4F9 red-HTMLFB4485|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm d
+.\tenrm b
+.\tenrm l
+.\tenrm u
+.etc.
+
+./friggeri-cv.cls:41: Undefined control sequence.
+l.41   \colorlet
+                {fillheader}{gray}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:42: Undefined control sequence.
+l.42   \colorlet
+                {header}{white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:44: Undefined control sequence.
+l.44 \colorlet
+              {textcolor}{gray}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:45: Undefined control sequence.
+l.45 \colorlet
+              {headercolor}{gray}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:64: Undefined control sequence.
+l.64 \RequirePackage
+                    [quiet]{fontspec}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:65: Undefined control sequence.
+l.65 \RequirePackage
+                    [math-style=TeX,vargreek-shape=unicode]{unicode-math}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:67: Undefined control sequence.
+l.67 \newfontfamily
+                   \bodyfont
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:67: Undefined control sequence.
+l.67 \newfontfamily\bodyfont
+                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:72: Undefined control sequence.
+l.72 \newfontfamily
+                   \thinfont[]{Lato-Light.ttf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:72: Undefined control sequence.
+l.72 \newfontfamily\thinfont
+                            []{Lato-Light.ttf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:73: Undefined control sequence.
+l.73 \newfontfamily
+                   \headingfont[]{texgyreheros-bold.otf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:73: Undefined control sequence.
+l.73 \newfontfamily\headingfont
+                               []{texgyreheros-bold.otf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (36.94064pt too wide) in paragraph at lines 68--74
+[]\tenrm [BoldFont=texgyreheros-bold.otf, ItalicFont=texgyreheros-italic.otf, BoldItalicFont=texgyreheros-bolditalic.otf]|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm B
+.\tenrm o
+.\tenrm l
+.etc.
+
+./friggeri-cv.cls:75: Undefined control sequence.
+l.75 \defaultfontfeatures
+                         {Mapping=tex-text}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:76: Undefined control sequence.
+l.76 \setmainfont
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (51.88509pt too wide) in paragraph at lines 75--83
+[]\tenrm Mapping=tex-text [Mapping=tex-text, Color=textcolor, BoldFont=texgyreheros-bold.otf, ItalicFont=texgyreheros-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm M
+.\tenrm a
+.\tenrm p
+.\tenrm p
+.etc.
+
+./friggeri-cv.cls:84: Undefined control sequence.
+l.84 \setmathfont
+                 {texgyreheros-regular.otf}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:91: Undefined control sequence.
+l.91 \RequirePackage
+                    {tikz}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:93: Undefined control sequence.
+l.93 \newcommand
+                {\rolefont}{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:93: Undefined control sequence.
+l.93 \newcommand{\rolefont
+                          }{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:94: Undefined control sequence.
+l.94   \fontsize
+                {14pt}{24pt}\selectfont%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:94: Undefined control sequence.
+l.94   \fontsize{14pt}{24pt}\selectfont
+                                       %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:95: Undefined control sequence.
+l.95   \thinfont
+                %
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:96: Undefined control sequence.
+l.96   \color
+             {white}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:99: Undefined control sequence.
+l.99 \newcommand
+                {\header}[3]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:99: Undefined control sequence.
+l.99 \newcommand{\header
+                        }[3]{%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:100: Undefined control sequence.
+l.100   \begin
+              {tikzpicture}[remember picture,overlay]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:101: Undefined control sequence.
+l.101     \node
+                [rectangle, fill=fillheader, anchor=north, minimum width=\pa...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:101: Undefined control sequence.
+l.101 ..., anchor=north, minimum width=\paperwidth
+                                                  , minimum height=4cm] (box...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:102: Undefined control sequence.
+l.102     \node
+                [anchor=center] (name) at (box) {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:103: Undefined control sequence.
+l.103       \fontsize
+                     {40pt}{72pt}\color{header}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:103: Undefined control sequence.
+l.103       \fontsize{40pt}{72pt}\color
+                                       {header}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:104: Undefined control sequence.
+l.104       {\thinfont
+                       #1}{\bodyfont #2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:104: You can't use `macro parameter character #' in horizontal mode.
+l.104       {\thinfont #
+                        1}{\bodyfont #2}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./friggeri-cv.cls:104: Undefined control sequence.
+l.104       {\thinfont #1}{\bodyfont
+                                     #2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:104: You can't use `macro parameter character #' in horizontal mode.
+l.104       {\thinfont #1}{\bodyfont #
+                                      2}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./friggeri-cv.cls:106: Undefined control sequence.
+l.106     \node
+                [anchor=north] at (name.south) {%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:107: Undefined control sequence.
+l.107       \fontsize
+                     {14pt}{24pt}\color{header}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:107: Undefined control sequence.
+l.107       \fontsize{14pt}{24pt}\color
+                                       {header}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:108: Undefined control sequence.
+l.108       \thinfont
+                      #3%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./friggeri-cv.cls:108: You can't use `macro parameter character #' in horizontal mode.
+l.108       \thinfont #
+                       3%
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[1] )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 99 ({)
+### bottom level
+Output written on /Users/BLUE/Dropbox/Work/Fancy CV/.texpadtmp/friggeri-cv.pdf (1 page).
