@@ -19,6 +19,53 @@
 
 \refsection{1}
   \sortlist{entry}{chronological}
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -87,7 +134,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -95,6 +142,53 @@
     \endentry
   \endsortlist
   \sortlist{entry}{ydnt}
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -163,7 +257,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -174,6 +268,53 @@
 
 \refsection{2}
   \sortlist{entry}{chronological}
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -242,7 +383,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -250,6 +391,53 @@
     \endentry
   \endsortlist
   \sortlist{entry}{ydnt}
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -318,7 +506,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -329,6 +517,53 @@
 
 \refsection{3}
   \sortlist{entry}{chronological}
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -397,7 +632,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -405,6 +640,53 @@
     \endentry
   \endsortlist
   \sortlist{entry}{ydnt}
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -473,7 +755,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -484,6 +766,53 @@
 
 \refsection{4}
   \sortlist{entry}{chronological}
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -552,7 +881,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -560,6 +889,53 @@
     \endentry
   \endsortlist
   \sortlist{entry}{ydnt}
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -628,7 +1004,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -639,6 +1015,53 @@
 
 \refsection{5}
   \sortlist{entry}{chronological}
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -707,7 +1130,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball
@@ -715,6 +1138,53 @@
     \endentry
   \endsortlist
   \sortlist{entry}{ydnt}
+    \entry{fishman:2016:njw:terror}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{journaltitle}{Stanford Journal of Public Health}
+      \field{number}{1}
+      \field{title}{{Fleeing from Terror: Considering Safety When Designing Public Spaces in the Age of Mass Murder}}
+      \field{volume}{7}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://web.stanford.edu/group/sjph/cgi-bin/sjphsite/wp-content/uploads/2018/04/SJPH17-18.pdf#page=72
+      \endverb
+    \endentry
+    \entry{fishman:2018:njw:atacseq}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=5db2d3dbe8abf0435462f5225790f50a}{Gurev}{G\bibinitperiod}{Sarah}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Stanford University}%
+      }
+      \strng{namehash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \strng{fullhash}{6a7c254864370bc73e990d1ce5e8c72a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{month}{06}
+      \field{title}{{Denoising ATAC-seq with Convolutional Neural Networks}}
+      \field{type}{CS230 Final Presentation}
+      \field{year}{2018}
+      \verb{url}
+      \verb http://njw.fish/research/baseball
+      \endverb
+    \endentry
     \entry{fishman:2016:njw:kmer}{misc}{}
       \name{labelname}{3}{}{%
         {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
@@ -783,162 +1253,7 @@
       \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
       \field{month}{12}
       \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://njw.fish/research/baseball
-      \endverb
-    \endentry
-  \endsortlist
-\endrefsection
-
-\refsection{6}
-  \sortlist{entry}{chronological}
-    \entry{fishman:2016:njw:kmer}{misc}{}
-      \name{labelname}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9aebda5091ac09fa7bdecce9952b03a7}{Gibson}{G\bibinitperiod}{Keylie}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=6615b6cb6691b2dec923adee16bd424b}{Bendall}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9aebda5091ac09fa7bdecce9952b03a7}{Gibson}{G\bibinitperiod}{Keylie}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=6615b6cb6691b2dec923adee16bd424b}{Bendall}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {George Washington University}%
-      }
-      \strng{namehash}{e5bdb419ef1188c7759a6f370fa673a8}
-      \strng{fullhash}{e5bdb419ef1188c7759a6f370fa673a8}
-      \field{sortinit}{2}
-      \field{labeltitle}{{Using k-mer counts to Predict Population Diversity from Unassembled Reads}}
-      \field{title}{{Using k-mer counts to Predict Population Diversity from Unassembled Reads}}
-      \field{type}{Bioinformatics Final Presentation}
-      \field{year}{2017}
-      \verb{url}
-      \verb http://njw.fish/research/kmer
-      \endverb
-    \endentry
-    \entry{fishman:2016:njw:dogsv}{misc}{}
-      \name{labelname}{1}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{2}{%
-        {Cancer Genomics}%
-        {Comparative Genetics Branch, National Institutes of Health}%
-      }
-      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
-      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
-      \field{sortinit}{2}
-      \field{labeltitle}{{DOGSV: A Relational Database for the Storage and Analysis of Structural Variants}}
-      \field{month}{12}
-      \field{title}{{DOGSV: A Relational Database for the Storage and Analysis of Structural Variants}}
-      \field{type}{Ostrander Lab, Quadrenielle Review, National Institutes of Health}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://njw.fish/research/baseball
-      \endverb
-    \endentry
-    \entry{fishman:2016:njw:baseball}{report}{}
-      \name{labelname}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9808131c304b46a1a1de697001684f1b}{Tang}{T\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2fad90c20567fdaeec9188e96f339a89}{Lui}{L\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9808131c304b46a1a1de697001684f1b}{Tang}{T\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2fad90c20567fdaeec9188e96f339a89}{Lui}{L\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {George Washington University}%
-      }
-      \strng{namehash}{a59c72ae62cee6c36d80666082c8e3d9}
-      \strng{fullhash}{a59c72ae62cee6c36d80666082c8e3d9}
-      \field{sortinit}{2}
-      \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{month}{12}
-      \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://njw.fish/research/baseball
-      \endverb
-    \endentry
-  \endsortlist
-  \sortlist{entry}{ydnt}
-    \entry{fishman:2016:njw:kmer}{misc}{}
-      \name{labelname}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9aebda5091ac09fa7bdecce9952b03a7}{Gibson}{G\bibinitperiod}{Keylie}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=6615b6cb6691b2dec923adee16bd424b}{Bendall}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9aebda5091ac09fa7bdecce9952b03a7}{Gibson}{G\bibinitperiod}{Keylie}{K\bibinitperiod}{}{}{}{}}%
-        {{hash=6615b6cb6691b2dec923adee16bd424b}{Bendall}{B\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {George Washington University}%
-      }
-      \strng{namehash}{e5bdb419ef1188c7759a6f370fa673a8}
-      \strng{fullhash}{e5bdb419ef1188c7759a6f370fa673a8}
-      \field{sortinit}{2}
-      \field{labeltitle}{{Using k-mer counts to Predict Population Diversity from Unassembled Reads}}
-      \field{title}{{Using k-mer counts to Predict Population Diversity from Unassembled Reads}}
-      \field{type}{Bioinformatics Final Presentation}
-      \field{year}{2017}
-      \verb{url}
-      \verb http://njw.fish/research/kmer
-      \endverb
-    \endentry
-    \entry{fishman:2016:njw:dogsv}{misc}{}
-      \name{labelname}{1}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{1}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{2}{%
-        {Cancer Genomics}%
-        {Comparative Genetics Branch, National Institutes of Health}%
-      }
-      \strng{namehash}{28612889cd92eaa8b07f5b9617f4acd3}
-      \strng{fullhash}{28612889cd92eaa8b07f5b9617f4acd3}
-      \field{sortinit}{2}
-      \field{labeltitle}{{DOGSV: A Relational Database for the Storage and Analysis of Structural Variants}}
-      \field{month}{12}
-      \field{title}{{DOGSV: A Relational Database for the Storage and Analysis of Structural Variants}}
-      \field{type}{Ostrander Lab, Quadrenielle Review, National Institutes of Health}
-      \field{year}{2016}
-      \verb{url}
-      \verb http://njw.fish/research/baseball
-      \endverb
-    \endentry
-    \entry{fishman:2016:njw:baseball}{report}{}
-      \name{labelname}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9808131c304b46a1a1de697001684f1b}{Tang}{T\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2fad90c20567fdaeec9188e96f339a89}{Lui}{L\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{hash=28612889cd92eaa8b07f5b9617f4acd3}{Fishman}{F\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
-        {{hash=9808131c304b46a1a1de697001684f1b}{Tang}{T\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-        {{hash=2fad90c20567fdaeec9188e96f339a89}{Lui}{L\bibinitperiod}{Rui}{R\bibinitperiod}{}{}{}{}}%
-      }
-      \list{institution}{1}{%
-        {George Washington University}%
-      }
-      \strng{namehash}{a59c72ae62cee6c36d80666082c8e3d9}
-      \strng{fullhash}{a59c72ae62cee6c36d80666082c8e3d9}
-      \field{sortinit}{2}
-      \field{labeltitle}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{month}{12}
-      \field{title}{{Demonstrating Prediction Equivalence in Historical Team and Player Statistics}}
-      \field{type}{Machine Learning Final Presentation}
+      \field{type}{CS4331 Final Presentation}
       \field{year}{2016}
       \verb{url}
       \verb http://njw.fish/research/baseball

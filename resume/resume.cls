@@ -7,8 +7,6 @@
 }
 \ProcessOptions\relax
 \LoadClass{article}
-
-
 %%%%%%%%%%
 % Colors %
 %%%%%%%%%%
@@ -90,15 +88,25 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 
 \RequirePackage{tikz}
 
+
 \newcommand{\rolefont}{%
   \fontsize{14pt}{24pt}\selectfont%
   \thinfont%
   \color{white}%
 }
+\usetikzlibrary{calc}
+\usetikzlibrary{backgrounds,positioning}
+\usetikzlibrary{decorations.pathreplacing}
+
 
 \newcommand{\header}[3]{%
-  \begin{tikzpicture}[remember picture,overlay]
+  \begin{tikzpicture}[remember picture,overlay, every node/.style={node distance=0pt}]
     \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=4cm] (box) at (current page.north){};
+    \node [outer sep=0pt, inner sep=0pt, rectangle, fill=blue, anchor=south west, minimum width=0.2 * \paperwidth, minimum height=2mm ] (strip1) at (box.south west){};
+    \node [outer sep=0pt, inner sep=0pt, rectangle, fill=red, anchor=west, minimum width=0.2 * \paperwidth, minimum height=2mm] (strip2) at (strip1.east){};
+    \node [outer sep=0pt, inner sep=0pt,thick, rectangle, fill=orange, anchor=west, minimum width=0.2 * \paperwidth, minimum height=2mm] (strip3) at (strip2.east){};
+    \node [outer sep=0pt, inner sep=0pt,rectangle, fill=green, anchor=west, minimum width=0.2 * \paperwidth, minimum height=2mm] (strip4) at (strip3.east){};
+    \node [outer sep=0pt, inner sep=0pt,thick, rectangle, fill=purple, anchor=west, minimum width=0.2 * \paperwidth, minimum height=2mm] (strip5) at (strip4.east){};
     \node [anchor=center] (name) at (box) {%
       \fontsize{40pt}{72pt}\color{header}%
       {\thinfont #1}{\bodyfont #2}
@@ -107,9 +115,9 @@ BoldItalicFont=texgyreheros-bolditalic.otf
       \fontsize{14pt}{24pt}\color{header}%
       \thinfont #3%
     };
+    
   \end{tikzpicture}
   \vspace{2cm}
-  \vspace{-2\parskip}
 }
 
 
@@ -141,7 +149,8 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     \LARGE\headingfont\color{headercolor}%
     \@sectioncolor #1%
   }
-  \par\vspace{\parskip}
+  \par\vspace{-\parskip}
+  \vspace{2mm}
 }
 
 \renewcommand{\subsection}[1]{
@@ -159,7 +168,9 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 % List environment %
 %%%%%%%%%%%%%%%%%%%%
 
-\setlength{\tabcolsep}{10pt}
+\usepackage{multirow}
+
+\setlength{\tabcolsep}{2pt}
 \newenvironment{entrylist}{%
 \renewcommand{\arraystretch}{0}
   \begin{tabular*}{\textwidth}{lll}
@@ -168,19 +179,25 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 }
 \renewcommand{\bfseries}{\headingfont\color{headercolor}}
 \newcommand{\group}[1]{%
-    &&\parbox[t]{14.5cm}{
+    &&\parbox[t]{6.25cm}{
     \vspace{3mm}
     \large{\textbf{#1}}%
     \hfill%
     \vspace{3mm}
   }\\}
-\newcommand{\entry}[4]{%
-  #1&&\parbox[t]{14.5cm}{%
+\newcommand{\entry}[4]{%\vspace{
+  #1&&\parbox[t]{6.9cm}{%
+  
     \textbf{#2}%
-    \hfill%
-    {\addfontfeature{Color=lightgray} #3}\\%
-    #4\vspace{\parsep}%
-  }\\}
+    \\%
+    {\addfontfeature{Color=lightgray} #3}%
+ %
+  }\vspace{\parsep}\\
+  \multicolumn{3}{l}{\hspace{10mm}\parbox[t]{8cm}{
+  #4
+  \vspace{\parsep}}
+  }\\
+  }
 
 
 %%%%%%%%%%%%%%
@@ -317,9 +334,16 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 %%%%%%%%%%%%%%%%
 % Other tweaks %
 %%%%%%%%%%%%%%%%
-
+\usepackage{multicol}
 \usepackage{enumitem}
 \usepackage{datetime}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=lightgray,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
 \newdateformat{monthyeardate}{%
   \monthname[\THEMONTH], \THEYEAR}
 

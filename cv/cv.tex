@@ -1,5 +1,5 @@
 %!TEX TS-program = xelatex
-\documentclass[]{friggeri-cv}
+\documentclass[]{cv}
 \addbibresource{bibliography.bib}
 
 \begin{document}
@@ -67,6 +67,24 @@ machine learning, bioinformatics, cryptography, privacy
 \section{experience}
 
 \begin{entrylist}
+   \entry
+    {since 2018}
+    {Technical Specialist}
+    {Star Lab Corporation}
+    {Building system to provide early-warning of malicious, undocumented cyber activity targeting combat systems using a heuristic-based anomaly detection approach. Using deep learning to filter results to remove false positives which erode operator trust.}
+    
+    
+   \entry
+    {since 2018}
+    {Senior Advisor}
+    {Data for Progress}
+    {Using Deep Learning models to do text analysis, primarily word2vec models to analyze and compare bias in Twitter datasets and across news organizations.}
+
+   \entry
+    {since 2017}
+    {Undergraduate Researcher}
+    {Kundaje Lab, Stanford Medical School}
+    {Architecting and training deep neural networks on yeast MPRA data and working to interpret those models to develop more sophisticated physical understandings of transcription factor binding and regulatory sequence function.}
   \entry
     {2017}
     {Technical Specialist}
@@ -78,6 +96,10 @@ machine learning, bioinformatics, cryptography, privacy
     {Research Fellow}
     {Comparative Genomics Section, National Institutes of Health}
     {Storage and analysis of structural variants, continued work on DOGSV. Prostate cancer tumor classification from variant statistics. Determining if tumors are BRCA1, BRCA2, or FASTA, among other types, based on frequency and ratios of both single nucleotide and structural variations. }
+
+\end{entrylist}
+
+\begin{entrylist}
   \entry
     {2016}
     {IRTA Intern}
@@ -88,6 +110,7 @@ machine learning, bioinformatics, cryptography, privacy
     {Founder}
     {Science Olympiad Team, Woodrow Wilson High School}
     {Connected available funding and available expertise to expand opportunity.}
+
   \entry
     {2016 - 2017}
     {President}
@@ -98,11 +121,6 @@ machine learning, bioinformatics, cryptography, privacy
     {President}
     {FIRST Robotics Team 2914, Woodrow Wilson High School}
     {Managing a budget of \$20,000, applying for 6 grants, totaling over \$10,000 dollars to pay for team equipment and travel.}
-
-
-\end{entrylist}
-
-\begin{entrylist}
   \entry
     {2015 - 2016}
     {Tutor}
@@ -162,6 +180,16 @@ machine learning, bioinformatics, cryptography, privacy
 
 \section{honors}
 \begin{entrylist}
+	\entry
+    {2018}
+    {Boothe Prize Finalist, Program in Writing and Rhetoric}
+    {Stanford University}
+    {The Boothe Prize recognizes and rewards outstanding expository and argumentative writing by first-year students in the Writing and Rhetoric and Thinking Matters Programs.}
+    \entry
+    {2018}
+    {Boothe Prize Finalist, Thinking Matters}
+    {Stanford University}
+    {The Boothe Prize recognizes and rewards outstanding expository and argumentative writing by first-year students in the Writing and Rhetoric and Thinking Matters Programs.}
     \entry
     {2017}
     {G.R.E.A.T. Award}
@@ -220,14 +248,14 @@ machine learning, bioinformatics, cryptography, privacy
     {2013}
     {IT Instructor}
     {Dominican Republic}
-    {Designing and teaching a cirriculuum focussed on teaching foundational IT skills: how to use email, Microsoft Word, Google for communications and research. Taught in Spanish.}
+    {Designing and teaching a curriculum focussed on teaching foundational IT skills: how to use email, Microsoft Word, Google for communications and research. Taught in Spanish.}
 \end{entrylist}
 
 \section{publications}
 
 %%% This piece of code has been commented by Karol Kozioł due to biblatex errors. 
 % 
-\printbibsection{article}{article in peer-reviewed journal}
+\printbibsection{article}{published articles}
 \begin{refsection}
   \nocite{*}
   \printbibliography[sorting=chronological, type=inproceedings, title={international peer-reviewed conferences/proceedings}, notkeyword={france}, heading=subbibliography]
@@ -237,8 +265,8 @@ machine learning, bioinformatics, cryptography, privacy
   \printbibliography[sorting=chronological, type=inproceedings, title={local peer-reviewed conferences/proceedings}, keyword={france}, heading=subbibliography]
 \end{refsection}
 
-\printbibsection{misc}{presentations}
 \printbibsection{report}{research reports}
-\printbibsection{article}{abstracts}
+\printbibsection{misc}{presentations}
+
 
 \end{document}

@@ -1,9 +1,5 @@
 [0] Config.pm:318> INFO - This is Biber 1.8
-[0] Config.pm:321> INFO - Logfile is '/Users/njwfish/Dropbox/Work/Fancy CV/resume/.texpadtmp/resume.blg'
-[54] biber-darwin:275> INFO - === Thu Dec 14, 2017, 11:31:34
-[54] Biber.pm:333> INFO - Reading '/Users/njwfish/Dropbox/Work/Fancy CV/resume/.texpadtmp/resume.bcf'
-[103] Biber.pm:630> INFO - Found 0 citekeys in bib section 0
-[103] Utils.pm:169> WARN - The file '/Users/njwfish/Dropbox/Work/Fancy CV/resume/.texpadtmp/resume.bcf' does not contain any citations!
-[125] bbl.pm:482> INFO - Writing '/Users/njwfish/Dropbox/Work/Fancy CV/resume/.texpadtmp/resume.bbl' with encoding 'UTF-8'
-[126] bbl.pm:555> INFO - Output to /Users/njwfish/Dropbox/Work/Fancy CV/resume/.texpadtmp/resume.bbl
-[126] Biber.pm:105> INFO - WARNINGS: 1
+[0] Config.pm:321> INFO - Logfile is '/Users/njwfish/Dropbox/credentials/resume/.texpadtmp/resume.blg'
+[63] biber-darwin:275> INFO - === Wed Jun 27, 2018, 14:26:42
+[64] Biber.pm:333> INFO - Reading '/Users/njwfish/Dropbox/credentials/resume/.texpadtmp/resume.bcf'
+[111] Utils.pm:169> WARN - No data sources defined!

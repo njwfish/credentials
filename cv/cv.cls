@@ -85,6 +85,12 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 \newcommand{\header}[3]{%
   \begin{tikzpicture}[remember picture,overlay]
     \node [rectangle, fill=fillheader, anchor=north, minimum width=\paperwidth, minimum height=4cm] (box) at (current page.north){};
+    \node [outer sep=0pt, inner sep=0pt, rectangle, fill=blue, anchor=south west, minimum width=0.16666 * \paperwidth, minimum height=2mm ] (strip1) at (box.south west){};
+    \node [outer sep=0pt, inner sep=0pt, rectangle, fill=red, anchor=west, minimum width=0.16666 * \paperwidth, minimum height=2mm] (strip2) at (strip1.east){};
+    \node [outer sep=0pt, inner sep=0pt,thick, rectangle, fill=orange, anchor=west, minimum width=0.16666 * \paperwidth, minimum height=2mm] (strip3) at (strip2.east){};
+    \node [outer sep=0pt, inner sep=0pt,rectangle, fill=green, anchor=west, minimum width=0.16666 * \paperwidth, minimum height=2mm] (strip4) at (strip3.east){};
+    \node [outer sep=0pt, inner sep=0pt,thick, rectangle, fill=purple, anchor=west, minimum width=0.16666 * \paperwidth, minimum height=2mm] (strip5) at (strip4.east){};
+    \node [outer sep=0pt, inner sep=0pt,thick, rectangle, fill=dblue, anchor=west, minimum width=0.16666 * \paperwidth, minimum height=2mm] (strip6) at (strip5.east){};
     \node [anchor=center] (name) at (box) {%
       \fontsize{40pt}{72pt}\color{header}%
       {\thinfont #1}{\bodyfont  #2}
@@ -114,7 +120,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
         orange\or%
         green\or%
         purple\or%
-        brown\else%
+        dblue\else%
         headercolor\fi%
     } #1#2#3%
   }%
